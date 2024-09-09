@@ -14,3 +14,12 @@ Advanced Colab - This includes advanced topics of google colab <br />
   * Installation of Libraries <br />
   * Authentication inside of colab <br />
   * Create an example form <br />
+
+
+
+ML with AKKIO.com using Credit Card Fraud Data Set
+https://app.akkio.com/reports/440c84b7-6f0e-407c-9723-e206ee41cf8b
+
+
+![image](https://github.com/user-attachments/assets/912c94c6-e205-48ca-bae6-0271e4167c7c)
+
